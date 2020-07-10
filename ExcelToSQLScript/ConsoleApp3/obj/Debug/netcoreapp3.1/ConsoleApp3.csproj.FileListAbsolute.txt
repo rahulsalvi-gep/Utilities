@@ -1,0 +1,32 @@
+C:\Users\suyas\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\suyas\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.ResolveComReference.cache
+C:\Users\suyas\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\suyas\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\suyas\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\suyas\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+C:\Users\suyas\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+C:\Users\suyas\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+C:\Users\suyas\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\suyas\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\suyas\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\Users\suyas\source\repos\ConsoleApp3\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\suyas\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+C:\Users\suyas\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+C:\Users\suyas\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache
+C:\Users\suyas\source\repos\ConsoleApp3\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\GEP Work\Assignment2\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+D:\GEP Work\Assignment2\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+D:\GEP Work\Assignment2\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+D:\GEP Work\Assignment2\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+D:\GEP Work\Assignment2\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\GEP Work\Assignment2\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+D:\GEP Work\Assignment2\ConsoleApp3\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\GEP Work\Assignment2\ConsoleApp3\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\GEP Work\Assignment2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.ResolveComReference.cache
+D:\GEP Work\Assignment2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+D:\GEP Work\Assignment2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+D:\GEP Work\Assignment2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\GEP Work\Assignment2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\GEP Work\Assignment2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+D:\GEP Work\Assignment2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache
+D:\GEP Work\Assignment2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
